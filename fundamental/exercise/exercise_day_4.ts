@@ -1,6 +1,6 @@
 //exercise 1
 console.log("=============================================================");
-function createSequentialTrianglePattern(height: number): void {
+function createSequentialTrianglePattern(height: number) {
   let currentNumber = 1;
 
   for (let i = 1; i <= height; i++) {
